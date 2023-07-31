@@ -6313,5 +6313,20 @@
 "average_speed": 1.019,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 9547105302,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 17486.1,
+"moving_time": "1:18:01",
+"type": "Ride",
+"start_date": "2023-07-30 02:37:15+00:00",
+"start_date_local": "2023-07-30 10:37:15",
+"location_country": "\u5143\u6717\u5e02\u55ae\u8eca\u6ed9\u5408\u4e2d\u5fc3 Yuen Long Town Cycling Entry / Exit Hub, \u6717\u548c\u8def Long Wo Road, \u5927\u570d\u6751 Tai Wai Tsuen, \u5c71\u8c9d\u6751 Shan Pui Village, \u5143\u6717\u5340 Yuen Long District, \u65b0\u754c New Territories, \u9999\u6e2f Hong Kong, \u4e2d\u56fd",
+"summary_polyline": "a`_hC}h`wT[KCILWf@aC]@SSQk@V]Wa@I_@?}Ag@QBSk@e@_AUu@e@a@CgA[g@u@Qs@iE[R?mBYuAg@m@i@i@yAM{@@uB`@gCCs@Mu@_@o@yA_BqAw@y@UmBq@OUBa@Ji@NUTMtBWbCDjEgAz@[xByA~@y@PGzBRJUEGsAIoNgCa@@UNe@`Ak@b@}@XoB\\sCXoBb@yANk@E_@\\yBf@uG~B{@b@aBd@SPcIjBkHjBsDhAoDzAiGfDuCHu@McB}@kCwDsBsBkKsGs@kAuAaAJ@oHaCkBmAcAu@oAeAqC_BWC[j@G\\DJMD_@EIUWAsAk@oCg@wCOuBPqAAyD[uAe@sAs@kCsCsA_Dw@eCYaB_AuDWwBAeAQc@T}@VkCiA]Eo@}IkAuAEa@`@wAUeBIiISoAAiCD{B_@_Ac@mDcAwAi@cEqBkAeAm@a@{Am@IM@SUg@sAaAe@{@UWAKP[F]v@s@@a@]oAq@IYW_AmCo@sCoBgMm@mGE}@FQ\\W?Q]gANa@Ym@WQeAH{A\\KIYq@kAyFIaAe@uAAo@a@kBSgCuBeNo@wC_@kAgAqBeAuAgEyCsBiA}DwBeBi@MOmAi@kDs@g@\\QB_Ay@M?a@WmCiDHUr@{@Fe@g@kAYWa@cASA}@b@[?OQAO]e@UiBIyAHsCZi@[iAy@uEiAeIK{HQgC?k@UO@y@SoED_CE_@D]n@oBF{@NSLiCH]@iAKa@^wEGg@TWAqAPqDDkDHg@FoAE_Cc@MAg@t@EF[TqDEe@Fg@AmBH_@?y@JmBGm@DkCTgADq@Eq@WWiBs@qAa@y@k@sAsAm@}@u@cB_@_BCiAg@_Bm@oAw@iAaAu@sB{@oA?uHiAkBu@wDsCQJKCcC{Cy@}De@oAW}A_@kAwBqB|AsCt@c@lGwAfAa@x@m@d@g@hGkDjE_BrE{@n@Uj@k@dAm@?Qe@eA~DqFUc@fAaBBWj@[f@aArCiDb@}@XwADwD`@i@JmAZi@fAyCbAsAQk@BQx@mAJBNMV]}AhBM`@LVA`@aA~BOFrArAu@x@EI]VKv@Wf@aANEFCv@g@h@ALX{B@~BKFGMWOo@@gBu@mEaEcDcCJw@zAkAf@eB@y@zBK^BJUv@Z@T`@Fj@Q`B@mCG",
+"average_heartrate": 144.9,
+"average_speed": 3.736,
+"source": "strava",
+"streak": 2
 }
 ]
