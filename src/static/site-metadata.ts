@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://biking.xuchunqiu.com',
+  siteUrl: 'http://workout.xuchunqiu.com',
   logo: 'https://avatars.githubusercontent.com/u/57806510?s=400&u=bd479200668eeb5b70614eb8255f27e667bc3838',
   description: '辣堡每一天',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
