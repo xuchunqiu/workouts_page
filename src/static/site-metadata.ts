@@ -12,14 +12,14 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
-  description: 'Personal site and blog',
+  siteUrl: 'https://biking.xuchunqiu.com',
+  logo: 'https://avatars.githubusercontent.com/u/57806510?s=400&u=bd479200668eeb5b70614eb8255f27e667bc3838',
+  description: '辣堡每一天',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
       name: 'Blog',
-      url: 'https://ben29.xyz',
+      url: 'https://blog.xuchunqiu.com',
     },
     {
       name: 'About',
