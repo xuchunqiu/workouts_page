@@ -10,6 +10,11 @@ interface ISiteMetadataResult {
   }[];
 }
 
+const getBasePath = () => {
+  const baseUrl = import.meta.env.BASE_URL;
+  return baseUrl === '/' ? '' : baseUrl;
+};
+
 const data: ISiteMetadataResult = {
   siteTitle: 'Workouts Map',
   siteUrl: 'http://workout.xuchunqiu.com',
@@ -17,6 +22,10 @@ const data: ISiteMetadataResult = {
   description: '辣堡每一天',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
+    {
+      name: 'Summary',
+      url: `${getBasePath()}/summary`,
+    },
     {
       name: 'Blog',
       url: 'https://blog.xuchunqiu.com',
